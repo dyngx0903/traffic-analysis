@@ -5,6 +5,7 @@ This project provides an automated solution for vehicle counting using YOLOv5 ob
 ## Project Overview
 
 Our solution leverages CCTV feeds from public traffic cameras in Ho Chi Minh City, accessible through [Ho Chi Minh City Traffic Map](http://giaothong.hochiminhcity.gov.vn/Map.aspx). By analyzing these CCTV, the system identifies and counts vehicles passing through different locations, delivering valuable traffic insights to aid congestion management and enhance urban mobility strategies.
+The report can be accessed with this link: https://www.overleaf.com/read/jmkfbwvnzgpv#ecf74f
 
 ### Key Features
 
