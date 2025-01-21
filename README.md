@@ -19,6 +19,41 @@ Our solution leverages CCTV feeds from public traffic cameras in Ho Chi Minh Cit
 
 ---
 
+## **Project Directory**
+
+The following is the structure of the project:
+
+```
+traffic-analysis
+├───data
+│   ├───hyps
+│   ├───images
+│   │   └───trial
+│   └───scripts
+├───dataset
+│   ├───schooluav
+│   └───vccohexa
+├───models
+│   ├───hub
+│   └───model-final.zip
+├───modules
+│   ├───analyzer.py
+│   ├───dashboard.py
+│   └───trafficPrepare.py
+├───traffic
+└───utils
+    ├───aws
+    ├───docker
+    ├───flask_rest_api
+    ├───google_app_engine
+    ├───loggers
+    └───wandb
+├───main.py
+└───trafficdetection.py
+```
+
+---
+
 ## **Manual**
 
 ### **1. Data Collection**
